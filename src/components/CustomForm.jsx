@@ -36,7 +36,7 @@ const CustomForm = ({ addTask }) => {
         <label
           htmlFor="task"
           className="label"
-        >Enter Task</label>
+        >ENTER TASK</label>
       </div>
       <button
         className="btn"
